@@ -23,4 +23,4 @@ jobs:
         with:
           deviceFlavor: 'rpi4b'
           deviceOS: 11.2.0
-          deviceName: 'Raspberry Pi 4'
+          deviceName: 'rbpi4-ci'
